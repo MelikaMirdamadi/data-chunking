@@ -18,7 +18,7 @@ This Python script processes JSON files by splitting the text content into chunk
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/json-chunking-tool.git
+   git clone https://github.com/MelikaMirdamadi/data-chunking.git
    cd json-chunking-tool
    ```
 
